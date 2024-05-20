@@ -1,2 +1,4 @@
 # Design-of-PID-Controller-for-Automobile-Cruise-Control-System
-The PID controller is utilised to regulate the vehicle’s speed and maintain it at constant level.
+The PID controller for automobile cruise control system is utilised to regulate the vehicle’s speed and maintain it at constant level. 
+
+The cruise control is a control system which allows the driver to set a certain speed, which will make the vehicle to move in a set speed, without the need for constant manual input on the accelerator pedal. It is a closed-loop control system that adjusts throttle or brakes to counteract deviations from the desired or set speed. The disturbances can be road direction changes, climbing slopes or wind speed. As automotive industry progress with help of automation and control systems, design of cruise control systems become essential. We will be using a PID control for implementing the cruise control system. This study aims to optimize the PID controller parameters, including the proportional gain (Kp), integral gain (Ki), and derivative gain (Kd) to achieve a balance between stability and response, which will enhance the overall driving experienceand fuel efficiency.
